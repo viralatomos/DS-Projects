@@ -198,6 +198,12 @@ As a result, remaining prediction error should not be interpreted purely as mode
 
 ---
 
+## Interactive Power BI Dashboard
+
+[View the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGU4NzNkOGYtYmZlYi00NDBkLWEyYzYtZGI4ODYwNzA1ZGM5IiwidCI6ImJiNjc0YWE2LTJhMzItNDA5Zi1iODQ0LTI0NGE4OThjOWM1MyJ9)
+
+---
+
 ## Possible Extensions
 
 Possible next steps include:
@@ -230,7 +236,12 @@ Possible next steps include:
 │   ├── 02_panel_features_and_clustering.ipynb
 │   └── 03_cluster_trends_and_interpretation.ipynb
 │
-└── outputs/
-    ├── sites_cluster_map.png
-    ├── cluster_trends.png
-    └── predicted_vs_actual.png
+├── outputs/
+│   ├── sites_cluster_map.png
+│   ├── cluster_trends.png
+│   └── predicted_vs_actual.png
+│
+└── power_bi/
+    ├── exports/
+    ├── power_bi_data_prep.ipynb
+    └── sydney_bicycle.pbix

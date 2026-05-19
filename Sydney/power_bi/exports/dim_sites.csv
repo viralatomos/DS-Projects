@@ -1,0 +1,68 @@
+,site_id,site_name,longitude,latitude,cluster,mean_total_count,std_total_count,morning_evening_ratio,mean_march_october_diff,cluster_interpretation
+0,2,Intersection of Castlereagh Street and Goulburn Street,151.20860123036,-33.8782857820077,0,463.32,225.64014861426296,0.637270497605979,-82.08333333333333,Southwest peripheral sites
+1,4,Intersection of Elizabeth Street and Park Street,151.209897088493,-33.8732920555973,1,797.4,164.2944511134404,1.0242018287447059,67.33333333333333,Inner-city connector streets
+2,5,"Intersection of Elizabeth Street, Wentworth Avenue and Campbell Street",151.209083421334,-33.8797971180193,1,400.84,87.26238212043795,0.8985514337233889,9.333333333333334,Inner-city connector streets
+3,8,"Intersection of George Street, Margaret Street and Curtin Place",151.207320906501,-33.8651703683633,1,251.8,76.64528687401466,0.7154687778072218,-28.0,Inner-city connector streets
+4,10,Intersection of Kent Street and Druitt Street,151.205093212532,-33.8728170459601,2,669.56,301.1954072248336,0.9241731305022172,-60.666666666666664,High-volume commuter corridors
+5,11,Intersection of King Street and Kent Street,151.204592423607,-33.8687773304234,2,1676.88,460.35876589170465,0.9812714604516231,-62.916666666666664,High-volume commuter corridors
+6,12,"Intersection of Liverpool Street, College Street, Wentworth Avenue and Oxford Street",151.212114715673,-33.8769046030867,2,1684.52,467.3219910654039,1.223494980372482,102.75,High-volume commuter corridors
+7,13,Intersection of Liverpool Street and Sussex Street,151.204521911756,-33.8761494407242,1,292.36,159.7046440568756,0.8323420472654638,25.0,Inner-city connector streets
+8,14,Intersection of Liverpool Street and George Street,151.206136791373,-33.8763886091722,2,757.16,351.76882560378584,1.125185185996307,-73.33333333333333,High-volume commuter corridors
+9,16,Intersection of Macquarie Street and Bent Street,151.212515586351,-33.8657638733321,1,518.56,178.4904479236914,1.2193212568126048,-39.833333333333336,Inner-city connector streets
+10,17,"Intersection of Macquarie Street, St James Road, Hyde Park entrance and Prince Albert Road",151.211959487002,-33.8698575427795,2,836.76,262.79908041442354,1.089490346279913,-79.5,High-volume commuter corridors
+11,19,Intersection of Pitt Street and Bridge Street,151.208943350459,-33.8636159063452,1,265.4,73.6025361881867,1.2486863855524597,7.333333333333333,Inner-city connector streets
+12,21,Intersection of Upper Fort Street and near the Sydney Harbour Bridge cycle ramp (Watson Road),151.205995242626,-33.8588380037587,2,1799.68,458.54259344143804,1.141556127641841,14.75,High-volume commuter corridors
+13,22,Intersection of York Street and Grosvenor Street,151.205374206862,-33.8633988517396,1,391.96,136.2419661240006,1.4499945721374323,14.25,Inner-city connector streets
+14,23,Intersection of Bourke Road and Maddox Street,151.1965447951,-33.9092490979209,0,421.96,140.83160156726188,0.9385845443259904,-68.25,Southwest peripheral sites
+15,26,Intersection of Gardeners Road and Bourke Road,151.187806303578,-33.9202143941937,0,363.28,109.04720690294332,0.8890355742934427,-73.08333333333333,Southwest peripheral sites
+16,27,"Intersection of King Street, Princes Highway and Sydney Park pedestrian entrance",151.181426423923,-33.9072279620101,0,125.76,27.430639802964862,0.6705965907195427,-14.5,Southwest peripheral sites
+17,28,Intersection of Bowden Street and Mandible Street,151.19778886001,-33.9061608540306,0,193.84,90.64108707791773,0.9384469492545804,-48.75,Southwest peripheral sites
+18,29,Intersection of O'Riordan Street and Doody Street,151.195003346262,-33.915602662506,0,95.08,17.24799505256577,0.9075700449063433,-5.5,Southwest peripheral sites
+19,30,"Intersection of Missenden Road, John Hopkins Drive and Grose Street",151.181920303672,-33.8890312187183,0,204.76,62.305216475027194,0.8018179344295766,-19.333333333333332,Southwest peripheral sites
+20,34,Intersection of Buckland Street and Myrtle Street (including Peace park shared path),151.196889881624,-33.8874041392399,0,209.08,61.978437110552136,0.5458112003150419,-10.25,Southwest peripheral sites
+21,35,Intersection of Cleveland Street and Regent Street,151.20157889758,-33.889049106214,0,682.36,165.74701606162728,0.78234110572879,-54.416666666666664,Southwest peripheral sites
+22,36,Intersection of Darlinghurst Road and Liverpool Street,151.220388721123,-33.8781383243968,1,257.88,54.25734973254775,0.8879339391427932,14.833333333333334,Inner-city connector streets
+23,37,Intersection of New South Head Road and Neild Avenue,151.229478429068,-33.8768488383011,1,78.0,23.462736413300142,0.8312922146670779,-0.5,Inner-city connector streets
+24,40,Intersection of William Street and Bourke Street,151.218058883758,-33.8746023870553,1,370.12,94.84387170502899,0.8935608750452394,4.916666666666667,Inner-city connector streets
+25,42,"Intersection of City Road, Butlin Avenue and Eastern Avenue",151.190070961546,-33.8896283298779,0,468.96,125.2346065058164,0.7011785843891047,28.583333333333332,Southwest peripheral sites
+26,44,Intersection of Wilson Street and Shepherd Street,151.194343878435,-33.8924325011492,0,1097.96,172.6039493561295,0.9083090104027743,5.916666666666667,Southwest peripheral sites
+27,45,"Intersection of Railway Parade, Swanston Street and Bridge Street",151.185798963529,-33.9000243651036,0,386.64,91.30894443225885,0.8948235661312707,28.5,Southwest peripheral sites
+28,46,"Intersection of King Street, Concord Street and Lord Street",151.181390963039,-33.9066937270317,0,265.84,53.96887992167339,0.6840090898220669,-17.25,Southwest peripheral sites
+29,48,"Intersection of Mitchell Road, Coulson Street and Huntley Street",151.188091312682,-33.9064642758807,0,235.96,49.64329427693803,0.8438327310810826,-3.5,Southwest peripheral sites
+30,50,"Intersection of Mitchell Road, Davy Road and Henderson Road",151.195544352299,-33.8976291896064,0,239.8,55.19963767997033,0.9396319203183141,14.333333333333334,Southwest peripheral sites
+31,51,Intersection of Pyrmont Bridge Road and Lyons Road,151.178545656525,-33.8844096082565,0,357.44,55.75174137788583,1.0097145433850343,-1.5,Southwest peripheral sites
+32,52,Intersection of Wigram Road and Booth Street,151.175307355081,-33.8830124000444,0,214.16,48.569263257057266,0.9088966927736286,-18.833333333333332,Southwest peripheral sites
+33,54,Intersection of Glebe Point Road and Bridge Road,151.186995261178,-33.8797979064856,0,401.44,73.7326702803219,1.0127034622666686,9.833333333333334,Southwest peripheral sites
+34,55,"Intersection of Parramatta Road, University Avenue, Derwent Street and Arundel Street",151.191412207842,-33.884723228499,0,244.32,65.81775343071705,0.6544755102084953,25.083333333333332,Southwest peripheral sites
+35,56,Intersection of Ross Street and St Johns Road,151.183172866868,-33.8833293114164,0,237.0,60.58533926069354,0.7380202673363299,-14.916666666666666,Southwest peripheral sites
+36,58,"Intersection of The Crescent, Johnston Street and Chapman Road",151.17481573114,-33.8727284375083,0,409.24,127.82060345134765,0.9383713824351035,0.5833333333333334,Southwest peripheral sites
+37,63,Intersection of Hickson Road and Towns Place,151.203631179467,-33.8570232575747,1,350.64,95.5915268211571,1.6059781399875883,-2.4166666666666665,Inner-city connector streets
+38,64,"Intersection of Hickson Street, Napoleon Street and Sussex Street",151.203063776653,-33.8641442975464,1,419.76,120.36620511311857,1.2850649987754579,-42.25,Inner-city connector streets
+39,65,"Intersection of Anzac Parade, Flinders Street and Moore Park Road",151.218976857772,-33.8865855391407,2,1085.88,298.5100947483463,1.413991432835226,16.666666666666668,High-volume commuter corridors
+40,66,"Intersection of Anzac Parade, Cleveland Street and Lang Road",151.221581402313,-33.8952343925688,2,1517.52,435.91169977416297,1.216448441851918,-105.5,High-volume commuter corridors
+41,67,"Intersection of Anzac Parade, Alison Road and Dacey Avenue",151.22257327049,-33.9014634600329,2,579.04,378.9059337971189,1.1641042138724997,-32.75,High-volume commuter corridors
+42,69,"Intersection of King Street, Alice Street and Angel Street",151.17942804745,-33.9028921754815,0,290.12,55.44390558633715,0.7319124918254383,-31.25,Southwest peripheral sites
+43,70,Intersection of Wilson Street and Erskineville Road,151.180341944346,-33.8968161304582,0,667.44,115.66441400304012,0.9259106159068909,-24.916666666666668,Southwest peripheral sites
+44,71,"Intersection of Wilson Street, Burren Street and Brocks Lane",151.184897019908,-33.8954407104825,0,928.16,193.78740069123864,0.8687616641639008,-101.66666666666667,Southwest peripheral sites
+45,72,"Intersection of Oxford Street, Bourke Street and Flinders Street",151.216904149108,-33.8806245500749,2,1785.08,381.12508008089236,1.083979717495491,-97.33333333333333,High-volume commuter corridors
+46,74,"Intersection of Oxford Street, Moore Park Road, Carrington Drive, Parkes Drive and Lang Road",151.233090176221,-33.8895837657119,2,1801.08,522.8438995850802,2.093607056178522,-193.16666666666666,High-volume commuter corridors
+47,75,"Intersection of Hughes Street, Greenknowe Avenue and Macleay Street",151.22515618922,-33.8715315126454,1,157.68,39.23510333022374,0.905017360147136,2.9166666666666665,Inner-city connector streets
+48,76,Intersection of Miller Street and Saunders Street,151.19158970432,-33.8706349981095,2,1294.0,324.5935920501206,1.0329145742690082,-29.166666666666668,High-volume commuter corridors
+49,78,"Intersection of Murray Street, Union Street, Pyrmont Bridge and Darling Drive",151.197830453362,-33.8700152731557,2,2018.16,405.2426927163524,0.9929728124885281,-36.5,High-volume commuter corridors
+50,79,Intersection of Pyrmont Bridge Road and Harris Street,151.194927603536,-33.8714253974418,1,534.4,123.09752231462663,1.0727336613006033,42.333333333333336,Inner-city connector streets
+51,80,"Intersection of Bourke Street, Phillip Street and Crescent Street",151.213102600911,-33.8971287132597,0,647.04,201.56708560675278,0.878422327172879,-30.25,Southwest peripheral sites
+52,81,Intersection of Elizabeth Street and Redfern Street & Redfern Park,151.20729817291,-33.8932424424646,0,593.4,132.4940250225144,0.9045771074479909,3.3333333333333335,Southwest peripheral sites
+53,82,Intersection of George Street and Wells Street,151.202307996737,-33.8918794148928,0,860.2,229.06185481946432,0.8918617866852432,-79.66666666666667,Southwest peripheral sites
+54,84,Intersection of Dunning Avenue and Queen Street,151.202940254051,-33.9144020704049,0,108.12,28.05845089570461,0.9051089174737563,-12.416666666666666,Southwest peripheral sites
+55,85,Intersection of Gardeners Road and Dalmeny Avenue,151.207033295955,-33.922913770904,0,161.32,43.45373018127059,0.9854787609629458,-22.166666666666668,Southwest peripheral sites
+56,86,Intersection of Bourke Street and Phelps Street,151.215319222636,-33.8871421035528,1,845.16,226.62187302494286,0.9486927122260034,-6.666666666666667,Inner-city connector streets
+57,87,Intersection of Crown Street and Fitzroy Street,151.214186793972,-33.8844217243985,1,313.2,68.58692781184082,1.155572350175384,7.583333333333333,Inner-city connector streets
+58,88,"Intersection of Elizabeth Street, Chalmers Street, Eddy Avenue and Foveaux Street",151.208333708341,-33.8832687752569,1,775.92,212.2196032415479,0.9389956633046772,-47.833333333333336,Inner-city connector streets
+59,91,Intersection of Darling Drive and Hay Street,151.201070178879,-33.8790208103623,0,340.88,131.0608382902129,0.7376839611548865,-36.416666666666664,Southwest peripheral sites
+60,93,Intersection of Thomas Street and Jones Street,151.199342928018,-33.8830543864204,0,375.48,87.49577132639041,0.7030633666230404,-10.583333333333334,Southwest peripheral sites
+61,94,Intersection of Wattle Street and Kelly Street,151.197180995125,-33.8815997196907,0,254.8,67.03046571025246,0.8165274154279548,-13.333333333333334,Southwest peripheral sites
+62,95,Intersection of Bourke Street and O'Dea Avenue & Short St,151.207259959364,-33.9030759990065,0,398.96,153.58696776311027,0.8546415143790134,-39.25,Southwest peripheral sites
+63,96,Intersection of Wellington Street and George Street,151.202330754323,-33.8983953652117,0,396.36,178.00465349722367,0.9106895840886124,13.25,Southwest peripheral sites
+64,98,Intersection of Crown Street and Cathedral Street,151.216736920578,-33.8723880574867,1,104.52,25.09501942617299,0.8765269116656483,-8.666666666666666,Inner-city connector streets
+65,99,Intersection of Epsom Road and Link Road,151.211132720089,-33.9119239533182,0,115.0,36.305417410261704,1.0953909909952773,-16.0,Southwest peripheral sites
+66,100,"Intersection of South Dowling Street, O'Dea Street and Todman Avenue",151.214311079878,-33.9039633894499,0,249.68,90.98796623729974,0.9756209122505622,15.5,Southwest peripheral sites
